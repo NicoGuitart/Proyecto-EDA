@@ -50,13 +50,13 @@ Este proyecto muestra un **Análisis Exploratorio de Datos (EDA)** del historial
    -  Transición desde un modelo deportivo altamente politizado hacia un sistema más equilibrado y sostenible
 7. **URSS en los JJOO**
    - Rendimiento consistente entre 90-125 medallas por olimpiada durante 1952 - 1976.
-8. **EEUU en los JJOO**
-   - EEUU muestra un crecimiento sostenido desde 1896 con picos anómalos en 1904 y 1984.
-10. **Comparación promedio URSS vs Rusia**
-   - Rusia sufre una gran caída de medallas tras disolución de la URSS.
+9. **EEUU en los JJOO**
+    - EEUU muestra un crecimiento sostenido desde 1896 con picos anómalos en 1904 y 1984.
+11. **Comparación promedio URSS vs Rusia**
+    - Rusia sufre una gran caída de medallas tras disolución de la URSS.
 11. **Comparación URSS vs EUA**
-   - Los boicots de 1980 y 1984 marcarons la rivalidad entre ambos países durante la Guerra Fría.
-   - En competencia directa y equilibrada (sin boicots), la rivalidad era muy pareja con ligera ventaja soviética.
+    - Los boicots de 1980 y 1984 marcarons la rivalidad entre ambos países durante la Guerra Fría.
+    - En competencia directa y equilibrada (sin boicots), la rivalidad era muy pareja con ligera ventaja soviética.
 
 ---
 
