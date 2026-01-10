@@ -79,5 +79,7 @@ Este proyecto muestra un **Análisis Exploratorio de Datos (EDA)** del historial
 ## Créditos
 
 Pablo Baro, Nico Guitart y Sergi de la Cruz
+
 Bootcamp Data Science The Bridge
+
 2025/26
